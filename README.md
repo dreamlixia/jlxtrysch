@@ -6,12 +6,12 @@ This is my first npm package!
 Install
 ---
 ```bash
-npm install @bamlehorse/jlxtrysch
+npm install @lynseyjen/jlxtrysch
 ```
 Usage
 ---
 ```js
-const jlxtrysch = require('@bamlehorse/jlxtrysch');
+const jlxtrysch = require('@lynseyjen/jlxtrysch');
 
 jlxtrysch('Such a big cherry!');
 // => Hi, you entered Suchabigcherry!

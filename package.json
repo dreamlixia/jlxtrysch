@@ -1,5 +1,15 @@
 {
     "name": "@bamlehorse/jlxtrysch",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string and console log it",
+    "license": "MIT",
+    "repository": "bamblehorse/jlxtrysch",
+    "main": "index.js",
+    "keywords": [
+        "jlxtrysch",
+        "npm",
+        "package",
+        "bamblehorse"
+    ]
 }
     

@@ -23,3 +23,24 @@ jlxtrysch(1997);
 //  at tiny(<anonymous>:2:41)
 //  at<anonymous>:1:1
 ```
+
+代码结构
+---
+```bash
+jlxtrysch
+.
+├── LICENSE
+├── README.md
+├── config
+│   ├── rollup.config.base.js（rollup基础配置）
+│   ├── rollup.config.dev.js（rollup开发配置）
+│   └── rollup.config.js（rollup正式配置）
+├── lib（存放打包后的文件）
+│   ├── bundle.browser.js
+│   ├── bundle.cjs.js
+│   └── bundle.esm.js
+├── package-lock.json
+├── package.json
+└── src（源码）
+      └── index.js
+```

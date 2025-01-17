@@ -12,6 +12,10 @@ npm install @lynseyjen/jlxtrysch
 ```
 Usage
 ---
+```bash
+jlxtrysch
+```
+abandoned
 ```js
 const jlxtrysch = require('@lynseyjen/jlxtrysch');
 

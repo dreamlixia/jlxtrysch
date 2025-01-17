@@ -42,5 +42,6 @@ jlxtrysch
 ├── package-lock.json
 ├── package.json
 └── src（源码）
-      └── index.js
+    ├── index.bin.js
+    └── index.js
 ```

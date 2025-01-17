@@ -1,5 +1,5 @@
 
-![Static Badge](https://img.shields.io/badge/jlxtrysch-v0.3.0-blue?labelColor=gray)
+![Static Badge](https://img.shields.io/badge/jlxtrysch-v0.4.0-blue?labelColor=gray)
 
 <!-- ![](github:) -->
 <!-- ![](https://github.com/dreamlixia/jlxtrysch) -->

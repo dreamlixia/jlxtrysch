@@ -25,6 +25,11 @@
     "bin": {
         "jlxtrysch": "src/index.bin.js"
     },
+    "files": [
+        "lib",
+        "LICENSE",
+        "README.md"
+    ],
     "devDependencies": {
         "@babel/core": "^7.26.0",
         "@babel/preset-env": "^7.26.0",

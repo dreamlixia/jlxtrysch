@@ -1,3 +1,6 @@
+# Rules from: /Users/bytedance/Documents/jlxtrysch/.gitignore
+node_modules/
+package/
 config/
 node_modules/
 src/index.bin.js

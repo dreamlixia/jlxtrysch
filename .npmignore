@@ -1,6 +1,8 @@
 config/
 node_modules/
-src/
+src/index.bin.js
+src/index.js
+src/test.npm.js
 .babelrc
 .gitignore
 package-lock.json

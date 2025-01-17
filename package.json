@@ -1,11 +1,11 @@
 {
     "name": "@lynseyjen/jlxtrysch",
     "version": "7.0.0",
-    "description": "Removes all spaces from a string and console log it",
+    "description": "Removes all spaces from a string and console log",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bamblehorse/jlxtrysch.git"
+        "url": "git+https://github.com/guessguess/jlxtrysch.git"
     },
     "keywords": [
         "jlxtrysch",

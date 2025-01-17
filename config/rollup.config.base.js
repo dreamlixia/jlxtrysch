@@ -4,7 +4,8 @@ import babel from '@rollup/plugin-babel';
 import { terser } from 'rollup-plugin-terser';
 
 export default {
-  input: './src/index.js',
+  // input: './src/index.js', // 项目引用的方式
+  input: './src/index.bin.js',  // 全局命令调用方式
   output: [
     {
       file: 'lib/bundle.cjs.js',

@@ -22,7 +22,7 @@
         "build:types": "npx tsc"
     },
     "bin": {
-        "jlxtrysch": "lib/bundle.esm.js"
+        "jlxtrysch": "src/index_global"
     },
     "files": [
         "lib",

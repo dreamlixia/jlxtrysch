@@ -23,7 +23,7 @@
         "build:types": "npx tsc"
     },
     "bin": {
-        "jlxtrysch": "src/index.bin.js"
+        "jlxtrysch": "src/index_global.js"
     },
     "files": [
         "lib",

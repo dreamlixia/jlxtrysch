@@ -5,7 +5,8 @@ import { terser } from 'rollup-plugin-terser';
 
 export default {
   // input: './src/index_loacl.js', // 项目引用的方式
-  input: './src/index_global.js',  // 全局命令调用方式
+  // input: './src/index_global.js',  // 全局命令调用方式
+  input: './src/index.js',
   output: [
     {
       file: 'lib/bundle.cjs.js',

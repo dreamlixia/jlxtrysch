@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 console.log(`
     _    _  _____  _      _      ____   
    | |  | || ____|| |    | |    |  _ \

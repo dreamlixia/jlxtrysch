@@ -2,6 +2,7 @@ import resolve from '@rollup/plugin-node-resolve';
 import commonjs from '@rollup/plugin-commonjs';
 import babel from '@rollup/plugin-babel';
 import { terser } from 'rollup-plugin-terser';
+import strip from '@rollup/plugin-strip';
 
 export default {
   // input: './src/index_loacl.js', // 项目引用的方式
@@ -30,5 +31,8 @@ export default {
       exclude: 'node_modules/**',
     }),
     terser(), // 可选：用于压缩代码
+    strip({
+      functions: ['console.*', 'assert.*'], // 移除调试信息
+    }),
   ],
 };

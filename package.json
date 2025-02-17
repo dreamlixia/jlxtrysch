@@ -1,6 +1,6 @@
 {
     "name": "@lynseyjen/jlxtrysch",
-    "version": "0.4.9",
+    "version": "0.4.10",
     "description": "Removes all spaces from a string and console log",
     "license": "MIT",
     "repository": {
